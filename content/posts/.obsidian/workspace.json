@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7ba026bf61c63a04",
+        "id": "2313d8b5831b99de",
         "type": "tabs",
         "children": [
           {
-            "id": "af0c2aed5b69be96",
+            "id": "6e4c67308401b5e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -149,7 +149,7 @@
       "cmdr:新建博文": false
     }
   },
-  "active": "af0c2aed5b69be96",
+  "active": "6e4c67308401b5e7",
   "lastOpenFiles": [
     "2023-10-18.md",
     "未命名.canvas",
