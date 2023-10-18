@@ -97,7 +97,7 @@
     {
       "id": "otl7qlv0yc",
       "platform_specific_commands": {
-        "default": "hugo new posts/{{_post_title}}"
+        "default": "hugo new posts/{{__post_title}}"
       },
       "shells": {},
       "alias": "新建博文",
@@ -137,7 +137,7 @@
     {
       "id": "82welv19d8",
       "platform_specific_commands": {
-        "default": "git add -A && git commit -m \"{{_comment}}\" && git push"
+        "default": "git add -A && git commit -m \"{{__comment}}\" && git push"
       },
       "shells": {},
       "alias": "提交",
