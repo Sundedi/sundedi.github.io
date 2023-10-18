@@ -165,7 +165,13 @@
       "output_handling_mode": "buffered",
       "events": {},
       "command_palette_availability": "enabled",
-      "preactions": [],
+      "preactions": [
+        {
+          "type": "prompt",
+          "enabled": true,
+          "prompt_id": "tv3ykumdr6"
+        }
+      ],
       "variable_default_values": {}
     }
   ],
@@ -190,7 +196,7 @@
       "id": "tv3ykumdr6",
       "title": "提交并发布",
       "description": "",
-      "preview_shell_command": false,
+      "preview_shell_command": true,
       "fields": [
         {
           "label": "输入提交信息",
