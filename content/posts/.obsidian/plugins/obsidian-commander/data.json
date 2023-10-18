@@ -1,19 +1,55 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [],
   "fileMenu": [],
-  "leftRibbon": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-shellcommands:shell-command-otl7qlv0yc",
+      "icon": "plus-circle",
+      "name": "新建博文",
+      "mode": "any"
+    }
+  ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
+  "statusBar": [
+    {
+      "id": "obsidian-git:pull",
+      "icon": "download-cloud",
+      "name": "拉取",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-82welv19d8",
+      "icon": "upload-cloud",
+      "name": "提交",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-b3jgvwlevq",
+      "icon": "sidebar-close",
+      "name": "hugo停止预览 ",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-shellcommands:shell-command-qrut8jq7iy",
+      "icon": "external-link",
+      "name": "hugo预览",
+      "mode": "any"
+    }
+  ],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "打开/创建今天的日记",
+      "插入模板",
+      "Advanced Tables Toolbar"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {
