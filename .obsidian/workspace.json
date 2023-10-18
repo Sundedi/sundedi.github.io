@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "9530dce44a1f4029",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c88bd89f38926c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "832372af141a654b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/posts/first_post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a61c3ba156e08cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc8b2eb8293e1f10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db23ec852cf8c297",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7af79daa7613d98",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b22004078e3960cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f52203f91398494",
+    "type": "split",
+    "children": [
+      {
+        "id": "bfa8f9a45d45e44f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6157546381d396b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/posts/first_post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fee2f6708119925",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/posts/first_post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21af7206b426d041",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1afeb2f5d26c8830",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/posts/first_post.md"
+              }
+            }
+          },
+          {
+            "id": "766dbeebd24b5249",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "832372af141a654b",
+  "lastOpenFiles": [
+    "themes/FixIt/docs/content/guides/emoji-support/index.en.md",
+    "themes/FixIt/docs/content/guides/emoji-support/index.zh-cn.md",
+    "content/posts/first_post.md"
+  ]
+}
