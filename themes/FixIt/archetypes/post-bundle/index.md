@@ -4,14 +4,14 @@ subtitle:
 date: {{ .Date }}
 draft: true
 author:
-  name:
-  link:
-  email:
-  avatar:
+  name: "圣代菌"
+  link: "sundedi@github.io"
+  email: "cybeird@outlook.com"
+  avatar: "CyBeird"
 description:
 keywords:
 license:
-comment: false
+comment: true
 weight: 0
 tags:
   - draft

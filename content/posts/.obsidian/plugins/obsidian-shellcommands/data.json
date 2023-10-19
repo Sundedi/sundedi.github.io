@@ -97,7 +97,7 @@
     {
       "id": "otl7qlv0yc",
       "platform_specific_commands": {
-        "default": "hugo new posts/{{__post_title}}"
+        "default": "hugo new posts/{{__post_title}}.md"
       },
       "shells": {},
       "alias": "新建博文",

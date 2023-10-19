@@ -10,18 +10,29 @@ author:
   avatar: "CyBeird"
 description:
 keywords:
+license:
 comment: false
+weight: 0
 tags:
   - draft
 categories:
   - draft
 hiddenFromHomePage: false
 hiddenFromSearch: false
-#单独摘要
 summary:
-#访问密码及访问信息
+resources:
+  - name: featured-image
+    src: featured-image.jpg
+  - name: featured-image-preview
+    src: featured-image-preview.jpg
+toc: true
+math: false
+lightgallery: false
 password:
 message:
+repost:
+  enable: true
+  url:
 
 # See details front matter: https://fixit.lruihao.cn/documentation/content-management/introduction/#front-matter
 ---
