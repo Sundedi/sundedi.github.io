@@ -13,8 +13,11 @@ keywords:
 license: 
 comment: false
 weight: 0
-tags: 
-categories: []
+tags:
+  - blog
+  - post
+  - git
+categories: 博客
 hiddenFromHomePage: false
 hiddenFromSearch: false
 summary: 
