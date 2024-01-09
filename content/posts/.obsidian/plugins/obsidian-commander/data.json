@@ -16,21 +16,9 @@
   "titleBar": [],
   "statusBar": [
     {
-      "id": "obsidian-git:pull",
-      "icon": "download-cloud",
-      "name": "拉取",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-shellcommands:shell-command-82welv19d8",
       "icon": "upload-cloud",
       "name": "提交",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-shellcommands:shell-command-b3jgvwlevq",
-      "icon": "sidebar-close",
-      "name": "hugo停止预览 ",
       "mode": "any"
     },
     {
