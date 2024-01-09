@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "first_post.md",
+                "file": "鸿蒙开发入门-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "687ac7e4b0c7072e",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "first_post.md",
+                "file": "鸿蒙开发入门-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "first_post.md",
+                "file": "鸿蒙开发入门-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "first_post.md"
+                "file": "鸿蒙开发入门-1.md"
               }
             }
           },
@@ -137,11 +138,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 347.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +158,10 @@
       "cmdr:新建博文": false
     }
   },
-  "active": "6d7db080802854b5",
+  "active": "5a7d34041bea08de",
   "lastOpenFiles": [
-    "鸿蒙开发入门-1.md",
     "first_post.md",
+    "鸿蒙开发入门-1.md",
     "测试.md",
     "ceshi.md",
     "11211212.md",
