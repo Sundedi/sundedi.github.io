@@ -15,9 +15,10 @@ comment: false
 weight: 0
 tags:
   - blog
-  - post
   - git
-categories: 博客
+  - hugo
+categories:
+  - Hugo
 hiddenFromHomePage: false
 hiddenFromSearch: false
 summary: 
