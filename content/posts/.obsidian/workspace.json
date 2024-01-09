@@ -137,13 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,7 +155,7 @@
       "cmdr:新建博文": false
     }
   },
-  "active": "6d7db080802854b5",
+  "active": "e72768a6f99e4e12",
   "lastOpenFiles": [
     "测试.md",
     "first_post.md",

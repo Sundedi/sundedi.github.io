@@ -22,6 +22,12 @@
       "mode": "any"
     },
     {
+      "id": "obsidian-shellcommands:shell-command-b3jgvwlevq",
+      "icon": "x-square",
+      "name": "Shell commands: Execute: hugo停止预览 ",
+      "mode": "any"
+    },
+    {
       "id": "obsidian-shellcommands:shell-command-qrut8jq7iy",
       "icon": "external-link",
       "name": "hugo预览",
@@ -39,7 +45,7 @@
       "Advanced Tables Toolbar"
     ]
   },
-  "spacing": 8,
+  "spacing": "8",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 1,
