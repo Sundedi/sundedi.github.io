@@ -5,9 +5,9 @@ date: {{ .Date }}
 draft: true
 author:
   name: "圣代菌"
-  link: "sundedi@github.io"
+  link: "sundedi.github.io"
   email: "cybeird@outlook.com"
-  avatar: "CyBeird"
+  avatar: "/images/avatar.png"
 description:
 keywords:
 license:
