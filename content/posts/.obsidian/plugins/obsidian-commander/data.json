@@ -16,21 +16,9 @@
   "titleBar": [],
   "statusBar": [
     {
-      "id": "obsidian-shellcommands:shell-command-82welv19d8",
-      "icon": "upload-cloud",
-      "name": "提交",
-      "mode": "any"
-    },
-    {
       "id": "obsidian-shellcommands:shell-command-b3jgvwlevq",
       "icon": "x-square",
       "name": "Shell commands: Execute: hugo停止预览 ",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-shellcommands:shell-command-qrut8jq7iy",
-      "icon": "external-link",
-      "name": "hugo预览",
       "mode": "any"
     }
   ],
