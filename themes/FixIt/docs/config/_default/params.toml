@@ -260,7 +260,7 @@ disableThemeInject = false
     enable = true
     # Gravatar Email for preferred avatar in home page
     # Gravatar 邮箱，用于优先在主页显示的头像
-    gravatarEmail = "xx@xx.com"
+    gravatarEmail = "cybeird@outlook.com"
     # URL of avatar shown in home page
     # 主页显示头像的 URL
     avatarURL = ""
@@ -929,7 +929,7 @@ disableThemeInject = false
   enable = true
   # Gravatar host, default: "www.gravatar.com"
   # Gravatar 主机，默认：“www.gravatar.com”
-  host = "www.gravatar.com" # ["cn.gravatar.com", "gravatar.loli.net", ...]
+  host = "gravatar.loli.net" # ["cn.gravatar.com", "gravatar.loli.net", ...]
   style = "mp" # ["", "mp", "identicon", "monsterid", "wavatar", "retro", "blank", "robohash"]
 
 # Back to top
