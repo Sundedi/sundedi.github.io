@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "鸿蒙开发入门-1.md",
+                "file": "鸿蒙开发入门-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "鸿蒙开发入门-1.md",
+                "file": "鸿蒙开发入门-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "鸿蒙开发入门-1.md",
+                "file": "鸿蒙开发入门-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "鸿蒙开发入门-1.md"
+                "file": "鸿蒙开发入门-3.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   "active": "e25b43bd79cd9d97",
   "lastOpenFiles": [
     "鸿蒙开发入门-2.md",
-    "鸿蒙开发入门-3.md",
     "鸿蒙开发入门-1.md",
+    "鸿蒙开发入门-3.md",
     "first_post.md",
     "测试.md",
     "ceshi.md",
