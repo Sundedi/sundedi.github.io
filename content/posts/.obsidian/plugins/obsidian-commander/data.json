@@ -9,7 +9,7 @@
       "id": "obsidian-shellcommands:shell-command-otl7qlv0yc",
       "icon": "plus-circle",
       "name": "新建博文",
-      "mode": "any"
+      "mode": "desktop"
     }
   ],
   "rightRibbon": [],
