@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日一题@1261奇怪的打印机.md",
+                "file": "每日一题@2864最大二进制奇数.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日一题@1261奇怪的打印机.md",
+                "file": "每日一题@2864最大二进制奇数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日一题@1261奇怪的打印机.md",
+                "file": "每日一题@2864最大二进制奇数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日一题@1261奇怪的打印机.md"
+                "file": "每日一题@2864最大二进制奇数.md"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "e25b43bd79cd9d97",
   "lastOpenFiles": [
-    "鸿蒙开发入门-3.md",
     "每日一题@1261奇怪的打印机.md",
+    "每日一题@2864最大二进制奇数.md",
+    "鸿蒙开发入门-3.md",
     "奇怪的打印机.md",
     "first_post.md",
     "每日一题",
